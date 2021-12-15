@@ -1,1 +1,1 @@
-# https://dekingtt.github.io/devstack/
+# dekingtt.github.io/devstack
